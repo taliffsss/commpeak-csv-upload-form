@@ -1,0 +1,3 @@
+export enum Channel {
+  STATISTIC_LIST_REFRESH = "STATISTIC_LIST_REFRESH",
+}
