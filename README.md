@@ -1,7 +1,4 @@
-
 # Simple CSV Form
-
-## Available Scripts
 
 In the project directory, you can run:
 
@@ -11,4 +8,6 @@ Using Docker:
 
 ### `docker-compose up --build -d`
 
-By default API url set to http://localhost:8000
+By default API url set to  [http://localhost:8000](http://localhost:8000/)
+Note:
+This system is made by ReactJS written in typescript, it capable of real time notification using pusher-js, once the upload form successfully save in Database, Back-End will trigger and event that Datatable will refetch the data once it has new one. [API Repository](https://github.com/taliffsss/Symfony-test/tree/master)
